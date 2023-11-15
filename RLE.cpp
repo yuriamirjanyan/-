@@ -1,4 +1,4 @@
-// (RLE) run length encoding
+﻿// (RLE) run length encoding
 #include <iostream>
 using namespace std;
 void printRLE(string str)
